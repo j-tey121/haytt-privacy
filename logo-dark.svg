@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#0B1530"/>
+  <g transform="translate(313.78 70) scale(0.98)"><defs>
+  <linearGradient id="ld-u" gradientUnits="userSpaceOnUse" x1="0" y1="40" x2="280" y2="130"><stop offset="0" stop-color="#0A4FB8"/><stop offset="0.4" stop-color="#1394E4"/><stop offset="0.62" stop-color="#06B4B8"/><stop offset="1" stop-color="#00C2A8"/></linearGradient>
+  <linearGradient id="ld-l" gradientUnits="userSpaceOnUse" x1="10" y1="270" x2="280" y2="150"><stop offset="0" stop-color="#0A47A6"/><stop offset="0.45" stop-color="#0E92B6"/><stop offset="1" stop-color="#05A8AE"/></linearGradient>
+</defs>
+  <path d="M188.8 84.8C182.8 88.5 166.2 89.3 158.6 90.7C145.8 93.2 132.7 96.2 120.2 100.3C114.6 102.1 98.5 109.5 93.5 108.8C93.5 104.3 93.5 95.1 93.5 90.0C93.5 77.3 96.1 9.1 90.3 3.1C85.4 -1.9 74.4 0.1 68.2 1.3C54.0 4.2 39.9 8.7 28.0 17.3C10.7 29.7 0.7 48.7 0.7 70.0C0.7 103.1 0.8 136.2 0.8 169.2C0.8 186.1 0.8 203.4 0.8 220.1C1.1 224.1 2.8 239.5 6.4 240.8C6.9 240.3 8.9 220.9 10.8 215.9C17.3 198.4 30.4 184.5 44.9 173.1C93.1 135.2 166.7 114.9 225.1 97.9C234.5 95.1 272.7 87.4 278.0 83.2C278.0 78.1 278.0 17.2 278.0 8.5C277.8 6.5 277.5 3.5 276.0 2.1C271.4 2.1 225.3 2.1 217.6 2.1C209.5 4.1 201.3 7.0 196.3 14.0C185.3 29.7 188.5 53.0 188.8 71.2C188.8 75.4 188.8 81.0 188.8 84.8Z" fill="url(#ld-u)"/>
+  <path d="M276.5 101.1C264.3 101.0 243.7 109.0 231.1 112.2C172.9 126.7 12.7 171.5 13.5 245.8C13.7 260.2 26.1 268.6 39.4 271.0C60.2 274.9 88.5 270.2 92.2 245.1C94.0 232.9 91.2 221.4 97.9 210.1C110.2 189.3 135.7 176.2 156.8 165.9C163.0 162.9 183.0 151.9 189.1 152.7C189.1 156.7 189.1 165.3 189.1 169.9C189.1 187.6 186.1 241.7 192.3 255.0C197.8 266.5 210.4 271.7 222.4 271.7C231.9 271.8 241.0 272.2 250.1 269.1C272.7 261.4 278.0 240.3 278.0 219.0C278.0 205.2 278.0 106.1 278.0 101.5C277.7 101.4 276.8 101.3 276.5 101.1Z" fill="url(#ld-l)"/>
+  <rect x="287" y="66.9" width="82.5" height="31" rx="9" fill="#00B3AD"/>
+  <rect x="312.8" y="42.5" width="31" height="79.8" rx="9" fill="#00B3AD"/></g>
+  <g transform="translate(89.19999999999999 372) scale(1.1)"><path d="M0 0H28V37H106V0H134V100H106V57H28V100H0Z" fill="#FFFFFF"/>
+  <path d="M147 100L200 0H246L292 100H262L223 22L177 100Z" fill="#FFFFFF"/>
+  <path d="M292 0H327L349.5 34L372 0H407L364 58V100H335V58Z" fill="#FFFFFF"/>
+  <path d="M428 0H536V20H496V100H468V20H428Z" fill="#FFFFFF"/>
+  <path d="M548 0H656V20H616V100H588V20H548Z" fill="#FFFFFF"/>
+  <path d="M219.5 56L197 100H242Z" fill="#00C2A8"/></g>
+  <text x="450" y="535" text-anchor="middle" font-family="Montserrat, Inter, Arial, sans-serif" font-size="32" font-weight="500" letter-spacing="11" fill="#B7C4E6">MEDICAL MOBILITY PLATFORM</text>
+  <text x="450" y="595" text-anchor="middle" font-family="Montserrat, Inter, Arial, sans-serif" font-size="27" letter-spacing="9" fill="#B7C4E6">Care Moves Forward</text>
+</svg>
